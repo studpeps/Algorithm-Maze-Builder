@@ -33,7 +33,7 @@
 |   Space	| Shuffle 	|
 |  1 	|  Bead Sort	|
 |  2 	|  Bitonic Sort	|
-|  3 	|  Bolo Sort	|
+|  3 	|  Bolo Sort	(faulty)|
 | 4  	|   Bubble Sort	|
 | 5  	|   Bucket Sort	|
 | 6  	|   Cocktail Shaker Sort	|
