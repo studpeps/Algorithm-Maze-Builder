@@ -1,8 +1,8 @@
-# Algorithm Visualiser
+# Algorithm-Maze-Builder
 
 A simple tool built step by step visualization for path finding, maze creating and sorting algorithms.
 
-Over 35 algorithms visualized step by step!
+Over 15 algorithms visualized !
 
 ## Supported Algorithms:
 
